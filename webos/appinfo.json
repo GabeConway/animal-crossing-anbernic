@@ -1,0 +1,12 @@
+{
+  "id": "org.opencrossing.anbernic.webos",
+  "version": "0.1.0",
+  "vendor": "OpenCrossing",
+  "type": "native",
+  "main": "AnimalCrossing",
+  "title": "OpenCrossing",
+  "icon": "icon.png",
+  "resolution": "1920x1080",
+  "uiRevision": 2,
+  "nativeLifeCycleInterfaceVersion": 2
+}
