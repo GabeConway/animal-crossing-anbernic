@@ -6,7 +6,11 @@
   "main": "AnimalCrossing",
   "title": "OpenCrossing",
   "icon": "icon.png",
-  "resolution": "1920x1080",
+  "resolution": "1280x720",
   "uiRevision": 2,
   "nativeLifeCycleInterfaceVersion": 2
+,
+  "cloudgame_active": true,
+  "useAllMouseButtons": true,
+  "useAllKeyboardKeys": true
 }
